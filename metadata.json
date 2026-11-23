@@ -1,0 +1,6 @@
+{
+  "name": "Hisaab Kitaab",
+  "description": "A dark glassmorphic calculator with expressive Hinglish profit, loss, and break-even reactions plus instant calculation history.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

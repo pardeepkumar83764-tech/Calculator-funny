@@ -1,0 +1,49 @@
+<resources>
+    <string name="app_name">Hisaab Kitaab</string>
+    <string name="app_subtitle">Smart Hisaab</string>
+
+    <!-- Accessibility & Labels -->
+    <string name="cd_all_clear">All clear</string>
+    <string name="cd_backspace">Backspace</string>
+    <string name="cd_percent">Percent</string>
+    <string name="cd_divide">Divide</string>
+    <string name="cd_multiply">Multiply</string>
+    <string name="cd_subtract">Subtract</string>
+    <string name="cd_add">Add</string>
+    <string name="cd_equals">Equals</string>
+    <string name="cd_decimal">Decimal point</string>
+    <string name="cd_open_history">Open calculation history</string>
+    <string name="cd_clear_history">Clear calculation history</string>
+    <string name="cd_use_history_result">Use result %1$s</string>
+
+    <!-- UI Copy -->
+    <string name="label_history">History</string>
+    <string name="label_clear_history">Clear history</string>
+    <string name="label_empty_history_title">No calculations yet</string>
+    <string name="label_empty_history_hint">Press = to save one here.</string>
+    <string name="label_error">Error</string>
+    <string name="label_invalid_expression">Invalid expression</string>
+    <string name="label_banner_idle_hint">Tap = for a Hisaab Kitaab verdict</string>
+
+    <!-- Reaction Messages: Negative (Loss) -->
+    <string name="react_neg_1">Naas kar diya! \uD83D\uDCC9</string>
+    <string name="react_neg_2">Bhai, udhaar lene ki naubat aa gayi! \uD83D\uDE2D</string>
+    <string name="react_neg_3">Gaya paisa paani mein\u2026 chhapaak! \uD83D\uDCB8</string>
+    <string name="react_neg_4">Account khali, dimaag khali! \uD83E\uDD26\u200D\u2642\uFE0F</string>
+    <string name="react_neg_5">Loss hi loss hai bhai, rehne de! \uD83D\uDC80</string>
+
+    <!-- Reaction Messages: Positive (Profit) -->
+    <string name="react_pos_1">Bahut badhiya! Party kab hai? \uD83C\uDF89</string>
+    <string name="react_pos_2">Kya baat hai, aaj toh paisa hi paisa hoga! \uD83E\uDD11</string>
+    <string name="react_pos_3">Ek number! Shabaash mere cheete! \uD83D\uDD25</string>
+    <string name="react_pos_4">Profit hi profit, aish kar bhai! \uD83D\uDE0E</string>
+    <string name="react_pos_5">Maza aa gaya guru! \uD83D\uDE80</string>
+
+    <!-- Reaction Messages: Zero (Break-even) -->
+    <string name="react_zero_1">Na kuch khoya, na kuch paya\u2026 Hisaab barabar! \u2696\uFE0F</string>
+    <string name="react_zero_2">Zero pe out! \uD83C\uDFCF</string>
+    <string name="react_zero_3">Sannata\u2026 bilkul zero! \uD83D\uDE10</string>
+
+    <!-- Reaction Messages: Error -->
+    <string name="react_err_1">Maths ki hatya mat kar bhai! \uD83D\uDEAB</string>
+</resources>
